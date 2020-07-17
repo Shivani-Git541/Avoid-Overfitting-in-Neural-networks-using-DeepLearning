@@ -1,1 +1,1 @@
-# Avoid-Overfitting-in-Neural-networks-using-DeepLearning
+# Avoid-Overfitting-in-Neural-networks-using Regularization Techniques
